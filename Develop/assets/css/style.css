@@ -37,7 +37,7 @@ header h1 {
   font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
   color: #d9dcd6;
 }
 
@@ -67,7 +67,7 @@ p {
   font-size: 16px;
 }
 
-.hero {
+.background-image {
   height: 800px;
   width: 100%;
   margin-bottom: 25px;
@@ -86,7 +86,7 @@ p {
   margin-left: 25px;
 }
 
-.content {
+content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
@@ -205,7 +205,7 @@ p {
   font-size: 36px;
 }
 
-.footer {
+footer {
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -213,6 +213,6 @@ p {
   text-align: center;
 }
 
-.footer h2 {
+footer h2 {
   font-size: 20px;
 }
