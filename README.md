@@ -16,4 +16,6 @@ adding homepage title.
 
 removing unnecessary classes/id's.
 
-finished product (./Develop/assets/images/screenshot.png)
+Website Link
+
+Finished product ![finished product](./Develop/assets/images/screenshot.png)
