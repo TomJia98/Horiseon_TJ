@@ -18,4 +18,4 @@ removing unnecessary classes/id's.
 
 Website Link
 
-Finished product ![finished product](./Develop/assets/images/screenshot.png)
+Finished product ![finished product](./Docs/assets/images/screenshot.png)
