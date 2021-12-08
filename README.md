@@ -16,6 +16,6 @@ adding homepage title.
 
 removing unnecessary classes/id's.
 
-Website Link
+Website Link https://tomjia98.github.io/Horiseon_TJ/
 
 Finished product ![finished product](./Docs/assets/images/screenshot.png)
